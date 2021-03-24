@@ -1,0 +1,21 @@
+{
+  "name": "nomadchain",
+  "version": "1.0.0",
+  "description": "blockchain with typescript",
+  "main": "index.js",
+  "scripts": {
+    "prestart" : "tsc",
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAKJOON0223/nomadchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HAKJOON0223/nomadchain/issues"
+  },
+  "homepage": "https://github.com/HAKJOON0223/nomadchain#readme"
+}
